@@ -10,4 +10,4 @@ you can find the code for one run including the graph creation in file "main.py"
 and the code for a graph containing the results for 10 runs in "multi_simulation.py".
 and the exe code is inside the folder "dist", the file name is "main.exe".
 
-Hope you enjoy the program!
+Hope you enjoy the program.
