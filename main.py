@@ -167,7 +167,7 @@ class GridDisplay(tk.Tk):
         self.generation_label.config(text="Generation: 0")
         self.draw_grid()
 
-    # Plot metric for Stripe Closeness
+    # plot metric for Stripe Closeness
     def show_graph(self):
         plt.figure()
         plt.plot(range(len(self.metric_values)), self.metric_values, linestyle='-', linewidth=1, label="Stripe Closeness")
