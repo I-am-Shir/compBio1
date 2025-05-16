@@ -11,3 +11,4 @@ and the code for a graph containing the results for 10 runs in "multi_simulation
 and the exe code is inside the folder "dist", the file name is "main.exe".
 
 Hope you enjoy the program.
+Shir and Hodaya
